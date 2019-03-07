@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="17" failures="0" name="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" time="0.002" errors="0" skipped="0">
+<testsuite tests="17" failures="0" name="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" time="0.001" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib"/>
     <property name="java.vm.version" value="25.181-b13"/>
     <property name="gopherProxySet" value="false"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/vishnukdawah/Documents/bitbucket/vishnu-dawah-individual-work/DDWA/Milestone2DDWA/Assignments/VendingMachineSpringMVC"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/vishnukdawah/Documents/github/pichus-vending-machine"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=":"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/vishnukdawah/Documents/bitbucket/vishnu-dawah-individual-work/DDWA/Milestone2DDWA/Assignments/VendingMachineSpringMVC"/>
+    <property name="user.dir" value="/Users/vishnukdawah/Documents/github/pichus-vending-machine"/>
     <property name="java.runtime.version" value="1.8.0_181-b13"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/endorsed"/>
@@ -66,15 +66,15 @@
     <property name="sun.cpu.isalist" value=""/>
   </properties>
   <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="displayMessage" time="0"/>
-  <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="testGetItemById" time="0.001"/>
+  <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="testGetItemById" time="0"/>
   <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="getPennyStringMessage" time="0"/>
   <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="makePurchase" time="0"/>
   <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="testGetAllItems" time="0"/>
-  <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="testCompareCost" time="0"/>
+  <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="testCompareCost" time="0.001"/>
   <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="acceptItemIdFromPage" time="0"/>
   <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="setErrorMessageFromService" time="0"/>
   <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="displayErrorImage" time="0"/>
-  <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="changeReturn" time="0.001"/>
+  <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="changeReturn" time="0"/>
   <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="getNickelStringMessage" time="0"/>
   <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="getQuarterStringMessage" time="0"/>
   <testcase classname="com.sg.vendingmachinespringmvc.service.VendingMachineServiceLayerTest" name="getChange" time="0"/>
