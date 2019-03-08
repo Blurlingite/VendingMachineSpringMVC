@@ -14,7 +14,7 @@
 <!--  <body background ="${pageContext.request.contextPath}/aaaa.jpg">-->
     <div class="container-fluid">
       <h3 id="sitePageTitle">
-        NOTPichu's Vending Machine
+        Pichu's Vending Machine
         <hr />
       </h3>
         
